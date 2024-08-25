@@ -8,3 +8,5 @@ Assign mentor to the student
      Select One Student and Assign one Mentor
 5. Write API to show all students for a particular mentor
 6. Write an API to show the previously assigned mentor for a particular student.
+
+Postman render doc: https://documenter.getpostman.com/view/21169925/2sAXjF9aPy
